@@ -1,1 +1,1 @@
-"# git-learinig-too-hard" 
+"# git-learing-too-hard" 
